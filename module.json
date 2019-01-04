@@ -3,7 +3,7 @@
     "name": "ep-logger",
     "author": "aurelius88",
     "description": "Logger for EP data.",
-    "version": "0.1",
+    "version": "0.0.2",
     "options": {
         "niceName": "EP-Logger",
         "settingsVersion": 1,
