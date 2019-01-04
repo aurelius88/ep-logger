@@ -1,0 +1,10 @@
+# module output
+positions.json
+opcodes.json
+groups.json
+out
+logs
+opcodes
+
+#module config
+config.json

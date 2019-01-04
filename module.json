@@ -1,0 +1,18 @@
+{
+    "disableAutoUpdate": false,
+    "name": "ep-logger",
+    "author": "aurelius88",
+    "description": "Logger for EP data.",
+    "version": "0.1",
+    "options": {
+        "niceName": "EP-Logger",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/aurelius88/ep-logger/master/"],
+    "supportUrl": "https://github.com/aurelius88/ep-logger/issues",
+    "dependencies": {
+        "util-lib": "https://raw.githubusercontent.com/aurelius88/util-lib/master/module.json"
+    }
+}
